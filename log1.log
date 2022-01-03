@@ -1,0 +1,20 @@
+2022.01.03 14:30:45.550 DEBUG main - main: debug message 01 äöü
+2022.01.03 14:30:45.551 INFO main - main: info message 01
+2022.01.03 14:30:45.551 WARNING main - main: warn message 01
+2022.01.03 14:30:45.551 ERROR main - main: error message 01
+2022.01.03 14:30:45.551 CRITICAL main - main: critical message 01
+2022.01.03 14:32:56.863 DEBUG main - main: debug message 01 äöü
+2022.01.03 14:32:56.864 INFO main - main: info message 01
+2022.01.03 14:32:56.864 WARNING main - main: warn message 01
+2022.01.03 14:32:56.864 ERROR main - main: error message 01
+2022.01.03 14:32:56.864 CRITICAL main - main: critical message 01
+2022.01.03 14:33:18.310 DEBUG main - main: debug message 01 äöü
+2022.01.03 14:33:18.311 INFO main - main: info message 01
+2022.01.03 14:33:18.311 WARNING main - main: warn message 01
+2022.01.03 14:33:18.311 ERROR main - main: error message 01
+2022.01.03 14:33:18.311 CRITICAL main - main: critical message 01
+2022.01.03 14:33:18.315 DEBUG sub - sub: debug message 01 äöü
+2022.01.03 14:33:18.315 INFO sub - sub: info message 01
+2022.01.03 14:33:18.315 WARNING sub - sub: warn message 01
+2022.01.03 14:33:18.315 ERROR sub - sub: error message 01
+2022.01.03 14:33:18.316 CRITICAL sub - sub: critical message 01
