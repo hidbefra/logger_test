@@ -1,11 +1,15 @@
 import logging
 import logging.config
+import locale
 
 import sub
 
 
 def main():
 
+    # solten umlaute in der "logging.conf" vorkommen muss die Datei ev. mit "Windows-1252" (cp1252) Kodierung gespeichert werden
+
+    print("aktuele python encodimg ist: {}".format(locale.getpreferredencoding()))
 
     logging.config.fileConfig('logging.conf')
 

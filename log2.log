@@ -10,3 +10,15 @@
 2022.01.03 14:33:18.311 WARNING main - main: warn message 02
 2022.01.03 14:33:18.311 ERROR main - main: error message 02
 2022.01.03 14:33:18.311 CRITICAL main - main: critical message 02
+2022.01.03 18:32:40.008 INFO main - main: info message 02
+2022.01.03 18:32:40.008 WARNING main - main: warn message 02
+2022.01.03 18:32:40.009 ERROR main - main: error message 02
+2022.01.03 18:32:40.009 CRITICAL main - main: critical message 02
+2022.01.03 18:33:54.477 INFO main - main: info message 02
+2022.01.03 18:33:54.477 WARNING main - main: warn message 02
+2022.01.03 18:33:54.477 ERROR main - main: error message 02
+2022.01.03 18:33:54.477 CRITICAL main - main: critical message 02
+2022.01.03 18:34:35.662 INFO main - main: info message 02
+2022.01.03 18:34:35.662 WARNING main - main: warn message 02
+2022.01.03 18:34:35.662 ERROR main - main: error message 02
+2022.01.03 18:34:35.663 CRITICAL main - main: critical message 02
